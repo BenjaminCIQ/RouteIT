@@ -5,7 +5,8 @@ To unlock RouteIT for unlimited use, a **€2.50** payment is required, after wh
 
 **1. Set RouteIT as your Active Datafield**
 > RouteIT needs to be set as an active datafield to generate a legitimate User ID. The image below shows the steps to follow to set RouteIT as your active datafield. This is shown on a touch-screen device, specifically a Vivoactive 4, but the procedure will be similar for all devices.
-> 
+
+<img src="https://github.com/BenjaminCIQ/RouteIT/blob/main/DatafieldSet.jpg" alt="" width="1000">
 
 **2. Finding Your Unique User ID**
 > To generate an unlock code that only works for RouteIT on your device, you need to send me your unique User ID for RouteIT. If someone else tries to use this unlock code on their watch, the unlock code will not match their user ID.
