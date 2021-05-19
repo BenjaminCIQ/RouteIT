@@ -13,7 +13,7 @@ To unlock RouteIT for unlimited use, a **€2.50** payment is required using Pay
 
 > **Your User ID is a random generation of numbers and letters, it does not provide me with any user information. The only purpose of this User ID is to generate your unique unlock code that will only work for your device. The user ID and unlock code are never sent over the internet during app use, they are stored and used on the device only.**
 
-> Once RouteIT has been added as an active data field and initialised at least once, this Unique User ID will appear in your settings file as shown here:
+> Once RouteIT has been added as an active data field and initialised at least once (As directed in Step 1), this Unique User ID will appear in your settings file as shown here:
 
 <img src="https://github.com/BenjaminCIQ/RouteIT/blob/main/USERID.jpg" alt="" width="400">
 
