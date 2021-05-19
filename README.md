@@ -1,7 +1,7 @@
 # **RouteIT Payment Instructions**
 
 RouteIT Trial version runs for 20 minutes per activity before prompting payment. Restarting activity resets trial period. A trial banner is also displayed at the beginning of an activity. Otherwise, the trial version has the full functionality of RouteIT, with route navigation and customizable data fields.
-To unlock RouteIT for unlimited use, a **€2.50** payment is required, after which I will send you an unlock code. Instructions for the payment process is as follows:
+To unlock RouteIT for unlimited use, a **€2.50** payment is required using PayPal, after which I will send you an unlock code. Instructions for the payment process is as follows:
 
 **1. Set RouteIT as your Active Datafield**
 > RouteIT needs to be set as an active datafield to generate a legitimate User ID. The image below shows the steps to follow to set RouteIT as your active datafield. This is shown on a touch-screen device, specifically a Vivoactive 4, but the procedure will be similar for all devices.
