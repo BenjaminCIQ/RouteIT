@@ -20,7 +20,9 @@ To unlock RouteIT for unlimited use, a **€2.50** payment is required using Pay
 **3. Payment**
 > Once you have found your User ID, a **€2.50** payment can be made to [paypal.me/BenjaminHpay](https://www.paypal.com/paypalme/BenjaminHpay/2.50eur). 
 > 
-> **INCLUDE YOUR USER ID AND EMAIL ADDRESS AS A NOTE FOR THE PAYMENT OTHERWISE I CANNOT GENERATE YOUR USER CODE OR SEND IT TO YOU**
+> **IMPORTANT!! MAKE SURE YOU ADD A NOTE TO YOUR PAYMENT THAT INCLUDES:
+> - YOUR USER ID
+>  - YOUR EMAIL ADDRESS**
 
 > The code generation is a manual process and I will contact you within 24 hours with your user code to unlock RouteIT.
 
