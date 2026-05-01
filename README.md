@@ -1,4 +1,4 @@
-# **RouteIT Payment Instructions**
+# **Garmin Datafield RouteIT Payment Instructions**
 
 RouteIT Trial version runs for 20 minutes per activity before prompting payment. Restarting activity resets trial period. A trial banner is also displayed at the beginning of an activity. Otherwise, the trial version has the full functionality of RouteIT, with route navigation and customizable data fields.
 To unlock RouteIT for unlimited use, a **€2.50** payment is required using PayPal, after which I will send you an unlock code. Instructions for the payment process is as follows:
